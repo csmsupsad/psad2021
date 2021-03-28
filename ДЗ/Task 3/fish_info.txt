@@ -1,0 +1,17 @@
+1  Номер наблюдения (от 1 до 159)
+2  Вид 
+Кодировка	Русский		Финский  Шведский   Английский     Латынь
+   1   		Лещ   		Lahna    Braxen     Bream          Abramis brama
+   2   		Язь   		Siika    Iiden      Whitewish      Leusiscus idus
+   3   		Плотва 		Saerki   Morten     Roach          Leuciscus rutilus
+   4   		Густера		Parkki   Bjorknan   ?              Abramis bjrkna
+   5   		Корюшка		Norssi   Norssen    Smelt          Osmerus eperlanus
+   6  		Щука   		Hauki    Gadda      Pike           Esox lucius
+   7   		Окунь  		Ahven    Abborre    Perch          Perca fluviatilis
+
+3  Масса 	Масса рыбы в граммах
+4  Длина1     	Длина от носа до начала хвоста в сантиметрах
+5  Длина2     	Длина от носа до развилки хвоста в сантиметрах
+6  Длина3     	Длина от носа до кончика хвоста в сантиметрах
+7  Высота     	Наибольшая высота в сантиметрах
+8  Толщина      Наибольшая толщина в сантиметрах
